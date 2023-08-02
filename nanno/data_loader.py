@@ -1,6 +1,6 @@
 import numpy as np
 
-def two_by_two():
+def get_two_by_two():
     examples = [
         np.array([
             [0,0],
