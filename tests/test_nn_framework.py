@@ -1,4 +1,4 @@
-from nn_framework import __version__
+from nanno import __version__
 
 
 def test_version():

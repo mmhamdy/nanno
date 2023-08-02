@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "nn_framework"
+name = "nanno"
 version = "0.1.0"
-description = "A Simple Neural Net Framework"
+description = "A tiny Neural Net Framework"
 authors = ["mmhamdy <mohamdy2772@gmail.com>"]
 
 [tool.poetry.dependencies]
