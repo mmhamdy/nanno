@@ -6,4 +6,4 @@
 
 </div>
 
-A very MLP framework
+A very tiny MLP framework.
